@@ -1,6 +1,7 @@
 ### 👋 Hello there!
 
 I'm Kalpit Tandon, a passionate software developer and tech enthusiast.
+
 💻 Tech Stack:
 - React.js
 - JavaScript
